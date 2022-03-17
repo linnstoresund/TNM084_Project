@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1634882843 source:c:\users\ingemar\documents\testa på windows\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1601079010 c:\users\ingemar\documents\testa på windows\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1635949203 source:c:\users\ingemar\documents\testa på windows\common\littleobjloader.c
+	"LittleOBJLoader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"VectorUtils3.h"
+
+1615488958 c:\users\ingemar\documents\testa på windows\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils3.h"
+
+1622439322 c:\users\ingemar\documents\testa på windows\common\vectorutils3.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1613375762 source:c:\users\ingemar\documents\testa på windows\common\loadtga.c
+	"LoadTGA.h"
+
+1601078976 c:\users\ingemar\documents\testa på windows\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622439330 source:c:\users\ingemar\documents\testa på windows\common\vectorutils3.c
+	"VectorUtils3.h"
+
+1504148332 source:c:\users\ingemar\documents\testa på windows\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1504148332 c:\users\ingemar\documents\testa på windows\common\windows\wglew.h
+	<windows.h>
+
+1635490273 source:c:\users\ingemar\documents\testa på windows\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1621844928 c:\users\ingemar\documents\testa på windows\common\windows\microglut.h
+
+1637302482 source:c:\users\ingemar\documents\testa på windows\lab 3a\glugg.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<OpenGL/gl3.h>
+	"GL_utilities.h"
+	"VectorUtils3.h"
+	"glugg.h"
+
+1622714560 c:\users\ingemar\documents\testa på windows\lab 3a\glugg.h
+	"VectorUtils3.h"
+
+1641913273 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1641913273 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1641913274 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1641913273 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\littleobjloader.c
+	"LittleOBJLoader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<VectorUtils3.h>
+
+1641913273 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils3.h"
+
+1641913273 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\vectorutils3.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1641913273 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\loadtga.c
+	"LoadTGA.h"
+
+1641913273 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641913273 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\vectorutils3.c
+	"VectorUtils3.h"
+
+1641913274 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1641913274 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\windows\wglew.h
+	<windows.h>
+
+1641913274 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1641913274 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\common\windows\microglut.h
+
+1641913786 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\project_storesund\glugg.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<OpenGL/gl3.h>
+	"GL_utilities.h"
+	"VectorUtils3.h"
+	"glugg.h"
+
+1641913786 c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\project_storesund\glugg.h
+	"VectorUtils3.h"
+
+1647082893 source:c:\users\marie\onedrive - storesund arkitekter\dokument\linn studier\tnm084\project\common-windows\project_storesund\lab3a.c
+	"MicroGlut.h"
+	"GL_utilities.h"
+	"VectorUtils3.h"
+	"LittleOBJLoader.h"
+	"LoadTGA.h"
+	"glugg.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634886443 source:c:\mt5\tnm084\common\gl_utilities.c
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"GL_utilities.h"
+
+1601082610 c:\mt5\tnm084\common\gl_utilities.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1504151932 c:\mt5\tnm084\common\windows\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1634627325 source:c:\mt5\tnm084\common\littleobjloader.c
+	"LittleOBJLoader.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<VectorUtils3.h>
+
+1615488958 c:\mt5\tnm084\common\littleobjloader.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	"VectorUtils3.h"
+
+1622442922 c:\mt5\tnm084\common\vectorutils3.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<math.h>
+	<stdio.h>
+
+1613375762 source:c:\mt5\tnm084\common\loadtga.c
+	"LoadTGA.h"
+
+1601082576 c:\mt5\tnm084\common\loadtga.h
+	<OpenGL/gl3.h>
+	"glew.h"
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622442930 source:c:\mt5\tnm084\common\vectorutils3.c
+	"VectorUtils3.h"
+
+1504151932 source:c:\mt5\tnm084\common\windows\glew.c
+	"glew.h"
+	"wglew.h"
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1504151932 c:\mt5\tnm084\common\windows\wglew.h
+	<windows.h>
+
+1635493873 source:c:\mt5\tnm084\common\windows\microglut.c
+	<windows.h>
+	"glew.h"
+	<gl/gl.h>
+	"MicroGlut.h"
+	<stdio.h>
+	<io.h>
+	<fcntl.h>
+
+1621848528 c:\mt5\tnm084\common\windows\microglut.h
+
+1641913788 source:c:\mt5\tnm084\project_storesund\glugg.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<OpenGL/gl3.h>
+	"GL_utilities.h"
+	"VectorUtils3.h"
+	"glugg.h"
+
+1641913788 c:\mt5\tnm084\project_storesund\glugg.h
+	"VectorUtils3.h"
+
+1647525851 source:c:\mt5\tnm084\project_storesund\lab3a.c
+	"MicroGlut.h"
+	"GL_utilities.h"
+	"VectorUtils3.h"
+	"LittleOBJLoader.h"
+	"LoadTGA.h"
+	"glugg.h"
+	<stdio.h>
+	<stdlib.h>
+
